@@ -1,0 +1,20 @@
+name: github workflows.main yml
+
+on: [push] Ethereum-deployment-repository
+
+jobs: system operational incident uptime network repository 
+ 
+build:workflows main yml system operational 
+
+ runs-on: ubuntu-latest (ethereum- deployment-repsitory)
+
+ steps:final run system workflows main yml (matrix)
+
+    - uses: actions/checkout@v2 test
+    - name: Run a one-line script release coverage json
+      run: echo Hello, world!
+    - name: Run a multi-line script
+    - run: |workflows main.yml matrix json
+       echo Add other actions to build,
+       echo test, and deploy your project.
+    - result: suksess
